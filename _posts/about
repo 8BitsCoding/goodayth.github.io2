@@ -1,9 +1,9 @@
 ---
-title: "이 블로그 설명서"
-permalink: /about.html
-toc_sticky: true
-toc_ads : true
-layout: single
+title: "Posts by Category"
+layout: categories
+permalink: /about/
+author_profile: true
 ---
+
 
 test about
