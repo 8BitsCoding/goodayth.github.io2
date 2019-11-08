@@ -6,8 +6,8 @@ main:
   - title: "목차"
     url: /categories/
   - title: "MFC"
-    url: /categories/MFC/
+    url: /categories-MFC/
   - title: "Qt"
-    url: /categories/MFC/
+    url: /categories-Qt/
   - title: "C++"
-    url: /categories/C++/
+    url: /categories-C++/
