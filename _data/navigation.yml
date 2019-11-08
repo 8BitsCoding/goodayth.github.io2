@@ -1,13 +1,13 @@
   
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://devinlife.com/
-  - title: "윤동주"
-    url: /categories/윤동주/
-  - title: "Categories"
+  - title: "HOME""
+    url: https://goodayth.github.io/
+  - title: "목차"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "MFC"
+    url: /categories/MFC/
+  - title: "Qt"
+    url: /categories/MFC/
+  - title: "C++"
+    url: /categories/C++/
