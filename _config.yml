@@ -20,7 +20,7 @@ title                    : "태형's Daily Coding"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "태형's Daily Coding"
-description              : "안녕하세요? 매일 제 경험과 지식을 기록하는 블로그입니다. 여러분들에게 많은 도움이 되었으면 합니다."
+description              : ""
 url                      : "https://goodayth.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "태형's Daily Coding"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요? 매일 제 경험과 지식을 기록하는 블로그입니다.<br>여러분들에게 많은 도움이 되었으면 합니다.<br>더 많은 정보는 아래 Wiki에 있습니다.(정리되면 올리겠습니다.)"
+  bio              : "안녕하세요? 매일 제 경험과 지식을 기록하는 블로그입니다.<br>여러분들에게 많은 도움이 되었으면 합니다.<br>더 많은 정보는 아래 [Wiki](https://github.com/GoodayTH/RobotMentor/wiki)에 있습니다.(정리되면 올리겠습니다.)"
   location         : "판교"
   email            : "taehyeong77@naver.com"
   links:
