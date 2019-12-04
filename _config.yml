@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "김태형의 Code Blog"
+title                    : "Daily Coding"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김태형"
-description              : "안녕하세요! 많은 도움이 되었으면 합니다!!"
+description              : "안녕하세요? 매일 제 경험과 지식을 기록하는 블로그입니다. 여러분들에게 많은 도움이 되었으면 합니다."
 url                      : "https://goodayth.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,16 +109,16 @@ analytics:
 author:
   name             : "김태형"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요? 프로그래머 김태형입니다."
+  bio              : "안녕하세요? 매일 제 경험과 지식을 기록하는 블로그입니다. 여러분들에게 많은 도움이 되었으면 합니다."
   location         : "판교"
-  email            :
+  email            : "taehyeong77@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:taehyeong77@naver.com
-    - label: "Website"
+    - label: "Git Wiki"
       icon: "fas fa-fw fa-link"
-      url: "https://goodayth.github.io"
+      url: "https://github.com/GoodayTH/RobotMentor/wiki"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
