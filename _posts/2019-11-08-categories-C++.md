@@ -6,4 +6,4 @@ categories: C++
 
 ### C++ 목차
 
-* [문자열파싱](2019-12-04-C++-parsing)
+* [문자열파싱](https://goodayth.github.io/c++/C++-parsing/)
