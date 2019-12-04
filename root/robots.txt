@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://goodayth.github.io/sitemap.xml
