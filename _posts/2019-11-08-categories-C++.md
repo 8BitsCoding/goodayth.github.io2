@@ -5,7 +5,7 @@ date: 2019-11-08 00:00:00 -0000
 
 ### C++ 문법 정리
 
-
+* [next_permutation](https://goodayth.github.io/C++-next_permutation) : 순열(permutation) 사용하기
 
 ### 코딩 테스트
 
