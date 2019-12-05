@@ -38,7 +38,10 @@ void Fn(string strArr[], const int size) {
 
 int main() {
     // string A[] = gets(stdin);
-    string A[] = {{"(3, 2, 1)"}, {"(4, 5, 6)"}};
+    // 실전
+    
+    // string A[] = {{"(3, 2, 1)"}, {"(4, 5, 6)"}};
+    // test용
     Fn(A, sizeof(A)/sizeof(*A));
 }
 ```
