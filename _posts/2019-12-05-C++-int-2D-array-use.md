@@ -1,7 +1,7 @@
 ---
 title: "(C++) int형 2차 배열 사용하기"
 date: 2019-12-05 00:00:00 -0000
-categories: C++,CodingTest
+categories: C++ CodingTest
 ---
 
 > 코딩테스트를 진행하다보면 2차원 배열을 사용해야할 경우가 있다.

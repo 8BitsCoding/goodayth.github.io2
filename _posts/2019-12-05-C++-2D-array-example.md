@@ -1,7 +1,7 @@
 ---
 title: "(C++) 2차원 string 배열의 문자열을 파싱해서 2차원 int형 배열로 넣기"
 date: 2019-12-05 00:00:00 -0000
-categories: C++,CodingTest
+categories: C++ CodingTest
 ---
 
 > 입력이 `(1, 2, 3) \r\n (4, 5, 6) ...` 이런식으로 들어온다고 가정한다.
