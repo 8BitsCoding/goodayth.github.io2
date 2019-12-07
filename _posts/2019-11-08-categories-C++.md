@@ -8,6 +8,8 @@ date: 2019-11-08 00:00:00 -0000
 * [next_permutation](https://goodayth.github.io/C++-next_permutation) : 순열(permutation) 사용하기
 * [const char *& VS const char * 차이점](https://goodayth.github.io/C++-constchar/)
 
+---
+
 ### 코딩 테스트
 
 #### 문자열 파싱
@@ -15,6 +17,14 @@ date: 2019-11-08 00:00:00 -0000
 * [문자열파싱](https://goodayth.github.io/c++/C++-parsing/)
 * [A-B 문자열에서 A,B파싱](https://goodayth.github.io/C++-parsing-A-B/)
 * [문자열 파싱 (A-B)(C-D)라는 문자열에서 A,B,C,D파싱](https://goodayth.github.io/C++-parsing-(A-B)(C-D)/)
+
+---
+
+#### 좋은문제
+
+* [pattern 찾기](https://goodayth.github.io/C++-Quize-pattern/)
+
+---
 
 #### 기타
 
