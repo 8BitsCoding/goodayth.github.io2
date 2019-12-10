@@ -8,6 +8,7 @@ date: 2019-11-08 00:00:00 -0000
 * [next_permutation](https://goodayth.github.io/C++-next_permutation) : 순열(permutation) 사용하기
 * [const char *& VS const char * 차이점](https://goodayth.github.io/C++-constchar/)
 * [vector sorting](https://goodayth.github.io/C++-vector-sorting/)
+* [string to int](https://goodayth.github.io/C++-string-to-int/)
 
 ---
 
