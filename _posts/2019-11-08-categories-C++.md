@@ -25,6 +25,8 @@ date: 2019-11-08 00:00:00 -0000
 #### 좋은문제
 
 * [pattern 찾기](https://goodayth.github.io/C++-Quize-pattern/)
+* [LCS Algorithm 만들기](https://goodayth.github.io/C++-LCS/)
+* [Dijkstra Algorithm 만들기](https://goodayth.github.io/C++-Dijkstra/)
 
 ---
 
