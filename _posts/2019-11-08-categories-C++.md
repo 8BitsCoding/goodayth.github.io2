@@ -16,9 +16,10 @@ date: 2019-11-08 00:00:00 -0000
 
 #### 문자열 파싱
 
-* [문자열파싱](https://goodayth.github.io/c++/C++-parsing/)
+* [문자열파싱](https://goodayth.github.io/C++-parsing/)
 * [A-B 문자열에서 A,B파싱](https://goodayth.github.io/C++-parsing-A-B/)
 * [문자열 파싱 (A-B)(C-D)라는 문자열에서 A,B,C,D파싱](https://goodayth.github.io/C++-parsing-(A-B)(C-D)/)
+* [Transitivity Relations](https://goodayth.github.io/C++-Transitivity-Relations/)
 
 ---
 
