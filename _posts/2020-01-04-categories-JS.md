@@ -7,7 +7,12 @@ date: 2020-01-04 00:00:00 -0000
 
 > * [참고 강의](https://opentutorials.org/course/743) : 생활코딩 JavaScript
 
+> 언어소개
+
 * [1강](https://goodayth.github.io/JS-1/) : OT - 이론적 내용이기에 따로 정리 안함
+
+> JavaScript의 기본
+
 * [2강](https://goodayth.github.io/JS-2/) : 실행방법과 실습환경
 * [3강](https://goodayth.github.io/JS-3/) : 숫자와 문자
 * [4강](https://goodayth.github.io/JS-4/) : 변수
@@ -21,3 +26,8 @@ date: 2020-01-04 00:00:00 -0000
 * [12강](https://goodayth.github.io/JS-12/) : 객체(Object)
 * [13강](https://goodayth.github.io/JS-13/) : 모듈
 * [14강](https://goodayth.github.io/JS-14/) : UI와 API 그리고 문서보는 법
+* [15강](https://goodayth.github.io/JS-15/) : 정규표현식
+
+> 함수지향 프로그래밍
+
+* [16강](https://goodayth.github.io/JS-16/) : 유효범위
