@@ -11,5 +11,7 @@ main:
     url: /categories-Qt/
   - title: "C++"
     url: /categories-C++/
+  - title: "JavaScript"
+    url: /categories-JS/
   - title: "Github io"
     url: /categories-Github-io/
