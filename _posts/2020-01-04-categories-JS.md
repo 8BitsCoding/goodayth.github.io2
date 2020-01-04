@@ -16,3 +16,8 @@ date: 2020-01-04 00:00:00 -0000
 * [7강](https://goodayth.github.io/JS-7/) : 비교
 * [8강](https://goodayth.github.io/JS-8/) : 조건문, 비교연산자
 * [9강](https://goodayth.github.io/JS-9/) : 반복문
+* [10강](https://goodayth.github.io/JS-10/) : 함수
+* [11강](https://goodayth.github.io/JS-11/) : 배열
+* [12강](https://goodayth.github.io/JS-12/) : 객체(Object)
+* [13강](https://goodayth.github.io/JS-13/) : 모듈
+* [14강](https://goodayth.github.io/JS-14/) : UI와 API 그리고 문서보는 법
