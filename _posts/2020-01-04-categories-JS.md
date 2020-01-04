@@ -10,3 +10,9 @@ date: 2020-01-04 00:00:00 -0000
 * [1강](https://goodayth.github.io/JS-1/) : OT - 이론적 내용이기에 따로 정리 안함
 * [2강](https://goodayth.github.io/JS-2/) : 실행방법과 실습환경
 * [3강](https://goodayth.github.io/JS-3/) : 숫자와 문자
+* [4강](https://goodayth.github.io/JS-4/) : 변수
+* [5강](https://goodayth.github.io/JS-5/) : 주석
+* [6강](https://goodayth.github.io/JS-6/) : 줄바꿈과 여백
+* [7강](https://goodayth.github.io/JS-7/) : 비교
+* [8강](https://goodayth.github.io/JS-8/) : 조건문, 비교연산자
+* [9강](https://goodayth.github.io/JS-9/) : 반복문
