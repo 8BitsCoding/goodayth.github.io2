@@ -5,10 +5,10 @@ date: 2019-11-08 00:00:00 -0000
 
 ### C++
 
-* [C++](/_posts/2019-11-08-categories-C++.md)
+* [C++](https://goodayth.github.io/categories-C++/)
 
 ---
 
 ### Qt
 
-* [Qt](/_posts/2019-11-08-categories-Qt.md)
+* [Qt](https://goodayth.github.io/categories-Qt/)
