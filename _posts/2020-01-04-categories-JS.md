@@ -38,3 +38,11 @@ date: 2020-01-04 00:00:00 -0000
 
 > 객체지향 프로그래밍
 
+* [21강](https://goodayth.github.io/JS-21/) : 객체지향 프로그래밍
+* [22강](https://goodayth.github.io/JS-22/) : 생성자와 new
+* [23강](https://goodayth.github.io/JS-23/) : 전역객체
+* [24강](https://goodayth.github.io/JS-24/) : this
+* [25강](https://goodayth.github.io/JS-25/) : 상속
+* [26강](https://goodayth.github.io/JS-26/) : prototype
+* [27강](https://goodayth.github.io/JS-27/) : 표준 내장 객체의 확장
+* [28강](https://goodayth.github.io/JS-28/) : Object
