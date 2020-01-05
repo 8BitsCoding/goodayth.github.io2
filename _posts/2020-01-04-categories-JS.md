@@ -31,3 +31,10 @@ date: 2020-01-04 00:00:00 -0000
 > 함수지향 프로그래밍
 
 * [16강](https://goodayth.github.io/JS-16/) : 유효범위
+* [17강](https://goodayth.github.io/JS-17/) : 값으로서의 함수와 콜백
+* [18강](https://goodayth.github.io/JS-18/) : 클로저
+* [19강](https://goodayth.github.io/JS-19/) : arguments
+* [20강](https://goodayth.github.io/JS-20/) : 함수의 호출
+
+> 객체지향 프로그래밍
+
