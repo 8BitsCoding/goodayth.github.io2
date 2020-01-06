@@ -13,7 +13,7 @@ date: 2020-01-04 00:00:00 -0000
 ### Node.js 강의 정리
 
 > * [참고 강의](https://opentutorials.org/course/3332) : 생활코딩 Node.js
-> * [코드를 정리한 Git]()
+> * [코드를 정리한 Git](https://github.com/GoodayTH/Nodejs)
 
 * [Node.js설치](https://goodayth.github.io/Nodejs-1/) : 설치 및 확인
 * [Node.js 웹서버 만들기](https://goodayth.github.io/Nodejs-2/) : node.js 웹서버로서의 동작

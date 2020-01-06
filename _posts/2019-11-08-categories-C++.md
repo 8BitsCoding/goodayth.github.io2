@@ -3,6 +3,13 @@ title: "C++"
 date: 2019-11-08 00:00:00 -0000
 ---
 
+### C++ Basic
+
+* [간단하지만 잘 몰랐던 부분](https://goodayth.github.io/cpp-basic/)
+* [decltype](https://goodayth.github.io/decltype/)
+
+---
+
 ### C++ 문법 정리
 
 * [next_permutation](https://goodayth.github.io/C++-next_permutation) : 순열(permutation) 사용하기
