@@ -3,8 +3,6 @@
 main:
   - title: "HOME"
     url: https://goodayth.github.io/
-  - title: "목차"
-    url: /categories/
   - title: "Electron"
     url: /categories-Electron/
   - title: "Qt"
