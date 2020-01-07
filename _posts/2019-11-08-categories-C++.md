@@ -7,6 +7,17 @@ date: 2019-11-08 00:00:00 -0000
 
 * [간단하지만 잘 몰랐던 부분](https://goodayth.github.io/cpp-basic/)
 * [decltype](https://goodayth.github.io/decltype/)
+* [const와 constexpr](https://goodayth.github.io/const_constexpr/)
+* [delete 함수삭제](https://goodayth.github.io/cpp-delete/)
+* [suffix 후위리턴](https://goodayth.github.io/cpp-suffix/)
+* [Explicit casting 명시적형변환](https://goodayth.github.io/cpp-explicit-casting/)
+* [friend 함수](https://goodayth.github.io/cpp-friend-func/)
+* [생성자, 소멸자 호출순서](https://goodayth.github.io/cpp-newdel-call/)
+* [up/down casting](https://goodayth.github.io/cpp-up-down-casting/)
+* [RTTI](https://goodayth.github.io/cpp-RTTI/)
+* [mutable](https://goodayth.github.io/cpp-mutable/)
+* [상수 멤버 함수](https://goodayth.github.io/cpp-const-func/)
+* [static memeber](https://goodayth.github.io/cpp-static-member/)
 
 ---
 
