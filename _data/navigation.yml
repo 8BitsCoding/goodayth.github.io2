@@ -5,8 +5,8 @@ main:
     url: https://goodayth.github.io/
   - title: "목차"
     url: /categories/
-  - title: "MFC"
-    url: /categories-MFC/
+  - title: "Electron""
+    url: /categories-Electron/
   - title: "Qt"
     url: /categories-Qt/
   - title: "C++"

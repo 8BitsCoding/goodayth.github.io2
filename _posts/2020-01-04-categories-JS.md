@@ -19,7 +19,14 @@ date: 2020-01-04 00:00:00 -0000
 * [Node.js 웹서버 만들기](https://goodayth.github.io/Nodejs-2/) : node.js 웹서버로서의 동작
 * [JavaScript - Data type Number](https://goodayth.github.io/Nodejs-3/) : Number 출력
 * [JavaScript - Data type String](https://goodayth.github.io/Nodejs-4/) : String 출력
-* [JavaScript - 변수](https://goodayth.github.io/Nodejs-5/) : 
+* [JavaScript - 변수](https://goodayth.github.io/Nodejs-5/)
+* [JavaScript - Template Literal](https://goodayth.github.io/Nodejs-6/) : or template string
+* [Node.js - URL로 입력된 값 사용하기](https://goodayth.github.io/Nodejs-7/)
+* [App - 동적인 웹페이지 만들기](https://goodayth.github.io/Nodejs-8/)
+* [Node.js - 파일 읽기](https://goodayth.github.io/Nodejs-9/)
+* [App - 파일을 이용해 본문 구현](https://goodayth.github.io/Nodejs-10/)
+
+> 여기 아래부터는 electron 내용 정리 후 정리 예정
 
 ---
 
