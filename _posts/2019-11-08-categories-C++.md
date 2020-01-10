@@ -20,6 +20,8 @@ date: 2019-11-08 00:00:00 -0000
 * [static memeber](https://goodayth.github.io/cpp-static-member/)
 * [연산자 재정의](https://goodayth.github.io/cpp-operator/)
 * [STL 컨테이너](https://goodayth.github.io/cpp-STL/)
+* [exception](https://goodayth.github.io/cpp-exception/)
+* [함수오버로딩](https://goodayth.github.io/cpp-function-overloading/)
 
 ---
 
