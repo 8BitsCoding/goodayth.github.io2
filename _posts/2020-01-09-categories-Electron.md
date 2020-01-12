@@ -11,3 +11,4 @@ date: 2020-01-07 00:00:00 -0000
 
 * [Section 2. - Handling Electron Projects](https://goodayth.github.io/Electron-2-1/)
 * [Section 3. - Handling Menu Bars](https://goodayth.github.io/Electron-3/)
+* [Section 4. - Status Tray Applications](https://goodayth.github.io/Electron-4/)
