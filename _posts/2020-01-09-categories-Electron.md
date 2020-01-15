@@ -13,3 +13,4 @@ date: 2020-01-07 00:00:00 -0000
 * [Section 3. - Handling Menu Bars](https://goodayth.github.io/Electron-3/)
 * [Section 4. - Status Tray Applications(1/2)](https://goodayth.github.io/Electron-4/)
 * [Section 4. - Status Tray Applications(2/2)](https://goodayth.github.io/Electron-4-2/) : 길이가 길어져 나눔, 같은 내용임.
+* [Section 5. - Combining Electron with React and Redux](https://goodayth.github.io/Electron-5/)
