@@ -6,9 +6,8 @@ date: 2020-01-04 00:00:00 -0000
 ## Docker
 
 * [mac기반 Docker 기본적 사용법](https://goodayth.github.io/docker-mac-basic)
-* [mac기반 xpenoloy설치](https://goodayth.github.io/docker-xpenoloy)
 
----s
+---
 
 ## Jenkins
 
