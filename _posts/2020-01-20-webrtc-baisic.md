@@ -43,7 +43,7 @@ $ nvm install v0.12.0
 $ nvm list
 ```
 
-![](webrtc-baisic_Image_01.png)
+![](/file/image/webrtc-baisic_Image_01.png)
 
 ```s
 # 사용버전을 선택하자
@@ -122,4 +122,4 @@ app.listen(3000);
 
 > localhost:3000으로 접속해본다.
 
-![](webrtc-baisic_Image_02.png)
+![](/file/image/webrtc-baisic_Image_02.png)
