@@ -7,6 +7,9 @@ date: 2020-01-20 00:00:00 -0000
 
 * [WebRTC in a Single Browser](#WebRTC-in-a-Single-Browser)
 * [간단한 Node.js서버 띄워보기](#간단한-Node.js서버-띄워보기)
+* [MediaStream을 이용하여 Video, Audio Capture](#mediastream을-이용하여-video-audio-capture)
+* [Parameters For Control Of Video Quality](#parameters-for-control-of-video-quality)
+* [코드를 조금 정리해 보자.](#코드를-조금-정리해-보자.)
 
 ---
 
@@ -123,3 +126,254 @@ app.listen(3000);
 > localhost:3000으로 접속해본다.
 
 ![](/file/image/webrtc-baisic_Image_02.png)
+
+---
+
+### MediaStream을 이용하여 Video Audio Capture
+
+> index.ejs 수정(우선은 받아들이자.)
+
+```html
+<!DOCTYPE html>>
+<html lang="en">
+    <head>
+        <title>0'Reilly Introduction to WebRTC</title>
+    </head>
+    <body>
+        <video autoplay></video>
+
+        <script>
+            navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+
+            var constarints = {audio: true, video: true};
+            var videoArea = document.querySelector("video");
+            navigator.getUserMedia(constarints, onSuccess, onError);
+
+            function onSuccess(stream) {
+                console.log("Success! We have a stream!");
+                videoArea.src = window.URL.createObjectURL(stream);
+                videoArea.play();
+            }
+
+            function onError() {
+                console.log("error");
+            }
+        </script>
+    </body>
+</html>
+```
+
+```s
+# 관리자 권한으로 cmd여는거 잊지말것
+$ node server
+```
+
+> 웹에서 `localhost:3000`접속
+>
+> 비디오, 오디오 권한을 허락하면 카메라화면을 볼 수 있다.
+
+---
+
+### Parameters For Control Of Video Quality
+
+> width, height 설정
+
+> index.ejs 수정
+
+```html
+<!DOCTYPE html>>
+<html lang="en">
+    <head>
+        <title>0'Reilly Introduction to WebRTC</title>
+    </head>
+    <body>
+        <video autoplay></video>
+
+        <script>
+            navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+
+            var constarints = {
+                audio: true, 
+                video: {
+                    mandatory: {
+                        maxWidth: 640,
+                        maxHeight: 640,
+                        minHeight: 360,
+                        minWidth: 360
+                    }
+                }
+            };
+            var videoArea = document.querySelector("video");
+            navigator.getUserMedia(constarints, onSuccess, onError);
+
+            function onSuccess(stream) {
+                console.log("Success! We have a stream!");
+                videoArea.src = window.URL.createObjectURL(stream);
+                videoArea.play();
+            }
+
+            function onError() {
+                console.log("error");
+            }
+        </script>
+    </body>
+</html>
+```
+
+> 스타일을 수정해 보자.
+
+> style.css
+
+```css
+.grayscale_filter {
+    -webkit-filter: saturate(0.03);
+    filter: saturate(0.03);
+}
+```
+
+> server.js 수정
+
+```js
+var express = require('express');
+var app = express();
+console.log('server started');
+
+app.use(express.static(__dirname+ '/public'));
+
+app.get('/', function(req, res){
+    res.render('index.ejs');
+});
+
+app.listen(3000);
+```
+
+> index.ejs 수정
+
+```html
+<!DOCTYPE html>>
+<html lang="en">
+    <head>
+        <title>0'Reilly Introduction to WebRTC</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <video autoplay></video>
+
+        <script>
+            navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+
+            var constarints = {
+                audio: true, 
+                video: {
+                    mandatory: {
+                        maxWidth: 640,
+                        maxHeight: 640,
+                        minHeight: 360,
+                        minWidth: 360
+                    }
+                }
+            };
+            var videoArea = document.querySelector("video");
+            navigator.getUserMedia(constarints, onSuccess, onError);
+
+            function onSuccess(stream) {
+                console.log("Success! We have a stream!");
+                videoArea.src = window.URL.createObjectURL(stream);
+                video.className = "grayscale_filter";
+                videoArea.play();
+            }
+
+            function onError() {
+                console.log("error");
+            }
+        </script>
+    </body>
+</html>
+```
+
+```s
+# 관리자 권한으로 실행
+$ node server
+```
+
+> `localhost:3000`접속
+
+> 회색으로 화면이 나오게 된다.
+
+---
+
+### 코드를 조금 정리해 보자.
+
+> index.ejs
+
+> 코드 정리 + 여러 카메라 중 하나를 선택할 수 있게 해준다.
+
+```html
+<!DOCTYPE html>>
+<html lang="en">
+    <head>
+        <title>0'Reilly Introduction to WebRTC</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div>
+            Video: <select id="camera"></select>
+        </div>
+        <video autoplay></video>
+
+        <script>
+            var videoArea = document.querySelector("video");
+            var videoSelect = document.querySelector('#camera');
+            MediaStreamTrack.getSources(getCameras);
+
+            videoSelect.onchange = startStream;
+
+            startStream();
+
+            function getCameras(sourceInfos) {
+                for(var i = 0; i !== sourceInfos.length; ++i) {
+                    car sourceInfo = sourceInfos[i];
+                    var option = document.createElement('option');
+                    option.value = sourceInfo.id;
+                    if(sourceInfo.kind === 'video') {
+                        option.text = sourceInfo.label || 'camera' + (videoSelect.length + 1);
+                        videoSelect.appendChild(option);
+                    }
+                }
+            }
+
+            function startStream() {
+                navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+                var videoSource = videoSelect.value;
+                var constarints = {
+                    audio: true, 
+                    video: {
+                        mandatory: {
+                            maxWidth: 640,
+                            maxHeight: 640,
+                            minHeight: 360,
+                            minWidth: 360
+                        },
+                        optional: [{
+                            sourceId: videoSource
+                        }]
+                    }
+                };
+
+                navigator.getUserMedia(constarints, onSuccess, onError);
+            }
+
+            function onSuccess(stream) {
+                console.log("Success! We have a stream!");
+                videoArea.src = window.URL.createObjectURL(stream);
+                video.className = "grayscale_filter";
+                videoArea.play();
+            }
+
+            function onError() {
+                console.log("error");
+            }
+        </script>
+    </body>
+</html>
+```
