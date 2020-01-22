@@ -5,6 +5,8 @@ date: 2020-01-04 00:00:00 -0000
 
 ## WebRTC
 
+* [WebRTC Native Build](https://goodayth.github.io/webrtc-native-build/)
+
 * [WebRTC 기초 다지기](https://goodayth.github.io/webrtc-basic/)
 * [WebRTC Signaling](https://goodayth.github.io/webrtc-signaling/)
 
@@ -33,6 +35,22 @@ date: 2020-01-04 00:00:00 -0000
 ```
 
 ![](/file/image/test_image.png)
+
+---
+
+## Git
+
+### fetch --nohooks 명령
+
+> git history를 복사하지 않음
+
+### git branch -r 명령
+
+> * 일단 branch는 브랜치를 보는 명령이고
+> * -r : 원격 저장소 branch의 리스트를본다.
+> * -a : 로컬, 원격 모든 저장소의 branch를 본다.
+
+> * [참고사이트](https://cjh5414.github.io/get-git-remote-branch/)
 
 ---
 

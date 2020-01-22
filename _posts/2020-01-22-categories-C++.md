@@ -1,9 +1,9 @@
 ---
 title: "C++"
-date: 2019-11-08 00:00:00 -0000
+date: 2020-01-22 00:00:00 -0000
 ---
 
-### C++ Basic
+## C++ Basic
 
 * [간단하지만 잘 몰랐던 부분](https://goodayth.github.io/cpp-basic/)
 * [decltype](https://goodayth.github.io/decltype/)
@@ -22,11 +22,13 @@ date: 2019-11-08 00:00:00 -0000
 * [STL 컨테이너](https://goodayth.github.io/cpp-STL/)
 * [exception](https://goodayth.github.io/cpp-exception/)
 * [함수오버로딩](https://goodayth.github.io/cpp-function-overloading/)
+* [가변인자(Variadic Template)](https://goodayth.github.io/cpp-variadic-template/)
 
 ---
 
-### C++ 문법 정리
+## C++ 문법 정리
 
+* [define문에서 ##](https://goodayth.github.io/cpp-define)
 * [next_permutation](https://goodayth.github.io/C++-next_permutation) : 순열(permutation) 사용하기
 * [const char *& VS const char * 차이점](https://goodayth.github.io/C++-constchar/)
 * [vector sorting](https://goodayth.github.io/C++-vector-sorting/)
@@ -34,9 +36,16 @@ date: 2019-11-08 00:00:00 -0000
 
 ---
 
-### 코딩 테스트
+## Design Pattern
 
-#### 문자열 파싱
+* [옵저버 패턴(Observer Pattern)](https://goodayth.github.io/cpp-design-observer/)
+* [팩토리 패턴(Factory Pattern)](https://goodayth.github.io/cpp-design-factory/)
+
+---
+
+## 코딩 테스트
+
+### 문자열 파싱
 
 * [문자열파싱](https://goodayth.github.io/C++-parsing/)
 * [A-B 문자열에서 A,B파싱](https://goodayth.github.io/C++-parsing-A-B/)
@@ -45,7 +54,7 @@ date: 2019-11-08 00:00:00 -0000
 
 ---
 
-#### 좋은문제
+### 좋은문제
 
 * [pattern 찾기](https://goodayth.github.io/C++-Quize-pattern/)
 * [LCS Algorithm 만들기](https://goodayth.github.io/C++-LCS/)
@@ -53,7 +62,7 @@ date: 2019-11-08 00:00:00 -0000
 
 ---
 
-#### 기타
+### 기타
 
 * [String Array 길이 찾기](https://goodayth.github.io/C++-string-array-length/)
 * [int형 2차 배열 사용하기](https://goodayth.github.io/C++-int-2D-array-use/)
