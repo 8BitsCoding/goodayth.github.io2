@@ -151,7 +151,9 @@ app.listen(3000);
 
             function onSuccess(stream) {
                 console.log("Success! We have a stream!");
-                videoArea.src = window.URL.createObjectURL(stream);
+                // videoArea.src = window.URL.createObjectURL(stream);
+                // 구 버전이라 지원안됨
+                videoArea.srcObject=stream;
                 videoArea.play();
             }
 
@@ -208,7 +210,8 @@ $ node server
 
             function onSuccess(stream) {
                 console.log("Success! We have a stream!");
-                videoArea.src = window.URL.createObjectURL(stream);
+                // videoArea.src = window.URL.createObjectURL(stream);
+                videoArea.srcObject=stream;
                 videoArea.play();
             }
 
@@ -278,7 +281,8 @@ app.listen(3000);
 
             function onSuccess(stream) {
                 console.log("Success! We have a stream!");
-                videoArea.src = window.URL.createObjectURL(stream);
+                // videoArea.src = window.URL.createObjectURL(stream);
+                videoArea.srcObject=stream;
                 video.className = "grayscale_filter";
                 videoArea.play();
             }
@@ -365,7 +369,8 @@ $ node server
 
             function onSuccess(stream) {
                 console.log("Success! We have a stream!");
-                videoArea.src = window.URL.createObjectURL(stream);
+                // videoArea.src = window.URL.createObjectURL(stream);
+                videoArea.srcObject=stream;
                 video.className = "grayscale_filter";
                 videoArea.play();
             }
