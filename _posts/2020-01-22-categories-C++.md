@@ -26,6 +26,13 @@ date: 2020-01-22 00:00:00 -0000
 
 ---
 
+## C++ Intermediate
+
+* [this call](https://goodayth.github.io/cpp-im-this-call/)
+* [멤버함수 포인터](https://goodayth.github.io/cpp-im-mem-function/)
+
+---
+
 ## C++ 문법 정리
 
 * [define문에서 ##](https://goodayth.github.io/cpp-define)
