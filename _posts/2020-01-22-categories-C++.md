@@ -40,9 +40,11 @@ date: 2020-01-22 00:00:00 -0000
 * [상수 멤버 함수의 필요성](https://goodayth.github.io/cpp-im-const-func/)
 * [논리적 상수성](https://goodayth.github.io/cpp-im-logical-const/)
 
-### 
+### new
 
 * [new vs operator new](https://goodayth.github.io/cpp-im-new-operator-new/)
+* [placement new](https://goodayth.github.io/cpp-im-placement-new/)
+* [생성자의 명시적 호출이 필요한 이유](https://goodayth.github.io/cpp-im-new-explicit/)
 
 ---
 
