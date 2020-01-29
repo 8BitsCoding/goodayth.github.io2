@@ -28,8 +28,21 @@ date: 2020-01-22 00:00:00 -0000
 
 ## C++ Intermediate
 
+### this call
+
 * [this call](https://goodayth.github.io/cpp-im-this-call/)
 * [멤버함수 포인터](https://goodayth.github.io/cpp-im-mem-function/)
+* [this와 상속](https://goodayth.github.io/cpp-im-this-inheritance/)
+* [멤버 변수 포인터](https://goodayth.github.io/cpp-im-mem-var-pointer/)
+
+### const
+
+* [상수 멤버 함수의 필요성](https://goodayth.github.io/cpp-im-const-func/)
+* [논리적 상수성](https://goodayth.github.io/cpp-im-logical-const/)
+
+### 
+
+* [new vs operator new](https://goodayth.github.io/cpp-im-new-operator-new/)
 
 ---
 
