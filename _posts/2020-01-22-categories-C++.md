@@ -46,6 +46,16 @@ date: 2020-01-22 00:00:00 -0000
 * [placement new](https://goodayth.github.io/cpp-im-placement-new/)
 * [생성자의 명시적 호출이 필요한 이유](https://goodayth.github.io/cpp-im-new-explicit/)
 
+### 생성자
+
+* [생성자 호출순서](https://goodayth.github.io/cpp-im-constructor-order/)
+
+### 기타
+
+* [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
+* [함수이름과 함수주소](https://goodayth.github.io/cpp-im-func-name-add/)
+* [함수 찾는 순서](https://goodayth.github.io/cpp-im-func-order/)
+
 ---
 
 ## C++ 문법 정리
