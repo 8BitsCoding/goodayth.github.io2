@@ -55,6 +55,8 @@ date: 2020-01-04 00:00:00 -0000
 
 ## Git
 
+* [Sourcetree로 Git 정리하기](https://goodayth.github.io/git-source-tree/)
+
 ### fetch --nohooks 명령
 
 > git history를 복사하지 않음
