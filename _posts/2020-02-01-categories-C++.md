@@ -56,6 +56,11 @@ date: 2020-02-01 00:00:00 -0000
 * [trivial 활용](https://goodayth.github.io/cpp-im-trivial-use/)
 * [trivial 정리](https://goodayth.github.io/cpp-im-trivial/)
 
+### conversion
+
+* [변환 연산자/변환 생성자](https://goodayth.github.io/cpp-im-conversion-constructor/)
+* [변환의 장단점](https://goodayth.github.io/cpp-im-conversion-proscons/)
+
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
