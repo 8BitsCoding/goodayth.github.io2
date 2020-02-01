@@ -1,6 +1,6 @@
 ---
 title: "C++"
-date: 2020-01-22 00:00:00 -0000
+date: 2020-02-01 00:00:00 -0000
 ---
 
 ## C++ Basic
@@ -49,6 +49,12 @@ date: 2020-01-22 00:00:00 -0000
 ### 생성자
 
 * [생성자 호출순서](https://goodayth.github.io/cpp-im-constructor-order/)
+
+### trivial
+
+* [trivial 개념](https://goodayth.github.io/cpp-im-trivial-concept/)
+* [trivial 활용](https://goodayth.github.io/cpp-im-trivial-use/)
+* [trivial 정리](https://goodayth.github.io/cpp-im-trivial/)
 
 ### 기타
 
