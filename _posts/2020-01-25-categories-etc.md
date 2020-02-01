@@ -16,6 +16,36 @@ date: 2020-01-04 00:00:00 -0000
 
 * [WebRTC ejs, express에 관하여](https://goodayth.github.io/webrtc-ejs-express/)
 
+> 아래 실습과제를 수행하기 위해서 ...<br>
+> package.json을 상황에 맞게 수정해야함.<br>
+>
+> ```s
+> $ npm show ejs version
+> $ npm show express.io version
+> $ npm show express version
+> ```
+>
+> 확인 후
+>
+> ```json
+> {
+> 	"name": "intro-webrtc",
+> 	"version": "0.0.1",
+> 	"private": true,
+> 	"dependencies": {
+> 		"coffee-script": "^1.12.7",
+> 		"connect": "3.x",
+> 		"ejs": "3.x",
+> 		"express": "4.x",
+> 		"express.io": "1.x"
+> 	}
+> }
+> ```
+>
+> package.json 수정 후 `$ npm install` 수행
+>
+> 설치가 된다면 `$ node server` 실행
+
 * [WebRTC 기초 다지기](https://goodayth.github.io/webrtc-basic/)
 * [WebRTC Signaling 이론](https://goodayth.github.io/webrtc-signaling/)
 * [WebRTC Signaling 실습(Setting Up Socket.io)](https://goodayth.github.io/webrtc-signaling2/)
