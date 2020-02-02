@@ -62,6 +62,7 @@ date: 2020-02-01 00:00:00 -0000
 * [변환의 장단점](https://goodayth.github.io/cpp-im-conversion-proscons/)
 * [explicit](https://goodayth.github.io/cpp-im-explicit/)
 * [make nullptr](https://goodayth.github.io/cpp-im-make-nullptr/)
+* [return type resolver](https://goodayth.github.io/cpp-im-resolver/)
 
 ### 기타
 
