@@ -60,6 +60,8 @@ date: 2020-02-01 00:00:00 -0000
 
 * [변환 연산자/변환 생성자](https://goodayth.github.io/cpp-im-conversion-constructor/)
 * [변환의 장단점](https://goodayth.github.io/cpp-im-conversion-proscons/)
+* [explicit](https://goodayth.github.io/cpp-im-explicit/)
+* [make nullptr](https://goodayth.github.io/cpp-im-make-nullptr/)
 
 ### 기타
 
