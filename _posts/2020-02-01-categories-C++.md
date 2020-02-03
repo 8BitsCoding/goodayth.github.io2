@@ -63,12 +63,17 @@ date: 2020-02-01 00:00:00 -0000
 * [explicit](https://goodayth.github.io/cpp-im-explicit/)
 * [make nullptr](https://goodayth.github.io/cpp-im-make-nullptr/)
 * [return type resolver](https://goodayth.github.io/cpp-im-resolver/)
+* [safe bool](https://goodayth.github.io/cpp-im-safe-bool/)
+* [Explicit Conversion Operator](https://goodayth.github.io/cpp-im-explicit-conversion/)
+* [brace-init & conversion](https://goodayth.github.io/cpp-im-brace-init/)
 
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
 * [함수이름과 함수주소](https://goodayth.github.io/cpp-im-func-name-add/)
 * [함수 찾는 순서](https://goodayth.github.io/cpp-im-func-order/)
+* [using](https://goodayth.github.io/cpp-im-using/)
+* [static_assert](https://goodayth.github.io/cpp-im-static-assert/)
 
 ---
 
@@ -79,6 +84,7 @@ date: 2020-02-01 00:00:00 -0000
 * [const char *& VS const char * 차이점](https://goodayth.github.io/C++-constchar/)
 * [vector sorting](https://goodayth.github.io/C++-vector-sorting/)
 * [string to int](https://goodayth.github.io/C++-string-to-int/)
+* [GetTickCount](https://goodayth.github.io/cpp-gettickcount/)
 
 ---
 
