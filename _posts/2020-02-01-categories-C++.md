@@ -92,6 +92,10 @@ date: 2020-02-01 00:00:00 -0000
 * [string to int](https://goodayth.github.io/C++-string-to-int/)
 * [GetTickCount](https://goodayth.github.io/cpp-gettickcount/)
 
+## thread
+
+* [thread](https://goodayth.github.io/cpp-thread/)
+
 ---
 
 ## Design Pattern
