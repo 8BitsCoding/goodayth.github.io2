@@ -76,6 +76,10 @@ date: 2020-02-01 00:00:00 -0000
 * [static_assert](https://goodayth.github.io/cpp-im-static-assert/)
 * [begin/end](https://goodayth.github.io/cpp-im-begin-end/)
 * [ranged-for](https://goodayth.github.io/cpp-im-ranged-for/)
+* [delete function](https://goodayth.github.io/cpp-im-delete-function/)
+* [noexcept](https://goodayth.github.io/cpp-im-noexcept/)
+* [scoped enum](https://goodayth.github.io/cpp-im-scoped-enum/)
+* [user define literal](https://goodayth.github.io/cpp-im-user-define-literal/)
 
 ---
 
