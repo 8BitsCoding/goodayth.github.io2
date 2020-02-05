@@ -1,6 +1,6 @@
 ---
 title: "(C++) thread"
-date: 2020-02-03 00:00:00 -0000
+date: 2020-02-04 00:00:00 -0000
 ---
 
 * [cppreference](https://en.cppreference.com/w/cpp/thread)

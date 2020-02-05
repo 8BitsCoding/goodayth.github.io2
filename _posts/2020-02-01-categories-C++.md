@@ -67,6 +67,20 @@ date: 2020-02-01 00:00:00 -0000
 * [Explicit Conversion Operator](https://goodayth.github.io/cpp-im-explicit-conversion/)
 * [brace-init & conversion](https://goodayth.github.io/cpp-im-brace-init/)
 
+### constructor
+
+* [delegate constructor](https://goodayth.github.io/cpp-im-delegate-constructor/)
+* [inherit constructor](https://goodayth.github.io/cpp-im-inherit-constructor/)
+
+### initializer(초기화)
+
+* [초기화 코드의 문제](https://goodayth.github.io/cpp-im-initializer/)
+* [uniform initialization](https://goodayth.github.io/cpp-im-uniform-initialization/)
+* [copy vs direct initialization](https://goodayth.github.io/cpp-im-copy-direct-initialization/)
+* [default vs value initialization](https://goodayth.github.io/cpp-im-default-value-initialization/)
+* [aggregate initialization](https://goodayth.github.io/cpp-im-aggregate-initialization/)
+* [초기화 코드의 문제 해결](https://goodayth.github.io/cpp-im-initialization2/)
+
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
@@ -80,6 +94,9 @@ date: 2020-02-01 00:00:00 -0000
 * [noexcept](https://goodayth.github.io/cpp-im-noexcept/)
 * [scoped enum](https://goodayth.github.io/cpp-im-scoped-enum/)
 * [user define literal](https://goodayth.github.io/cpp-im-user-define-literal/)
+* [if-init, if-constexpr](https://goodayth.github.io/cpp-im-if-init-constexpr/)
+* [structure binding](https://goodayth.github.io/cpp-im-structure-binding/)
+* [initializer_list](https://goodayth.github.io/cpp-im-initializer_list/)
 
 ---
 
