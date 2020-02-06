@@ -1,6 +1,6 @@
 ---
 title: "C++"
-date: 2020-02-01 00:00:00 -0000
+date: 2020-02-06 00:00:00 -0000
 ---
 
 ## C++ Basic
@@ -81,6 +81,12 @@ date: 2020-02-01 00:00:00 -0000
 * [aggregate initialization](https://goodayth.github.io/cpp-im-aggregate-initialization/)
 * [초기화 코드의 문제 해결](https://goodayth.github.io/cpp-im-initialization2/)
 
+### auto / decltype
+
+* [auto](https://goodayth.github.io/cpp-im-auto/)
+* [decltype](https://goodayth.github.io/cpp-im-decltype/)
+* [auto / decltype 정리](https://goodayth.github.io/cpp-im-auto-decltype/)
+
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
@@ -97,6 +103,7 @@ date: 2020-02-01 00:00:00 -0000
 * [if-init, if-constexpr](https://goodayth.github.io/cpp-im-if-init-constexpr/)
 * [structure binding](https://goodayth.github.io/cpp-im-structure-binding/)
 * [initializer_list](https://goodayth.github.io/cpp-im-initializer_list/)
+* [배열의 이름은 배열의 주소일까?](https://goodayth.github.io/cpp-im-array-name/)
 
 ---
 
