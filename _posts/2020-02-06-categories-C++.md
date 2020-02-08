@@ -91,6 +91,9 @@ date: 2020-02-06 00:00:00 -0000
 
 * [임시객체의 개념과 수명](https://goodayth.github.io/cpp-im-temporary-object/)
 * [임시객체와 함수](https://goodayth.github.io/cpp-im-temporary-object-function/)
+* [참조리턴 vs 값리턴](https://goodayth.github.io/cpp-im-temporary-object-return/)
+* [임시객체가 생성되는 다양한 경우](https://goodayth.github.io/cpp-im-temporary-object-make/)
+* [임시객체와 멤버함수](https://goodayth.github.io/cpp-im-temporary-object-func/)
 
 ### 기타
 
