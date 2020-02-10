@@ -11,6 +11,8 @@ void MyObject::helloWave()
     qDebug() << "hello !";
     QTimer::singleShot(5 * 1000, this, SLOT(helloWave()));
 }
+
+// (주의) private slot: void helloWave(); 선언 잊지말것
 ```
 
 ---

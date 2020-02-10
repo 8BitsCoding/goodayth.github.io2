@@ -86,6 +86,7 @@ date: 2020-01-04 00:00:00 -0000
 ## Git
 
 * [Sourcetree로 Git 정리하기](https://goodayth.github.io/git-source-tree/)
+* [master, develop, hofix 등 git flow 정리](https://goodayth.github.io/git-flow/)
 
 ### fetch --nohooks 명령
 
