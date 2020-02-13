@@ -116,6 +116,13 @@ date: 2020-02-06 00:00:00 -0000
 * [move 생성자 만들기](https://goodayth.github.io/cpp-im-move-constructor-make/)
 * [value categories](https://goodayth.github.io/cpp-im-move-value-categories/)
 
+### perfect forwarding
+
+* [perfect forwarding 개념](https://goodayth.github.io/cpp-im-perfect-forwarding/)
+* [perfect forwarding 구현](https://goodayth.github.io/cpp-im-perfect-forwarding-make/)
+* [forwarding reference](https://goodayth.github.io/cpp-im-forwarding-reference/)
+* [chronometry 함수 완성](https://goodayth.github.io/cpp-im-chronometry-func/)
+
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
