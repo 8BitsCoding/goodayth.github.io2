@@ -95,9 +95,11 @@ date: 2020-01-04 00:00:00 -0000
 
 ## Git
 
+* [git의 difftool 지정하기(beyond compare4)](https://goodayth.github.io/git-difftool/)
 * [Sourcetree로 Git 정리하기](https://goodayth.github.io/git-source-tree/)
 * [master, develop, hofix 등 git flow 정리](https://goodayth.github.io/git-flow/)
 * [Sourcetree로 cherry pick하기](https://goodayth.github.io/git-cherry-pick/)
+* [과거 commit 버전간 비교](https://goodayth.github.io/git-compare-past-commit/)
 
 ### fetch --nohooks 명령
 
