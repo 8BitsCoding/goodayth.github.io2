@@ -122,6 +122,7 @@ date: 2020-02-06 00:00:00 -0000
 * [perfect forwarding 구현](https://goodayth.github.io/cpp-im-perfect-forwarding-make/)
 * [forwarding reference](https://goodayth.github.io/cpp-im-forwarding-reference/)
 * [chronometry 함수 완성](https://goodayth.github.io/cpp-im-chronometry-func/)
+* [using perfect forwarding](https://goodayth.github.io/cpp-im-using-perfect-forwarding/)
 
 ### 기타
 
