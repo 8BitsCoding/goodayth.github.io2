@@ -123,6 +123,8 @@ date: 2020-02-06 00:00:00 -0000
 * [forwarding reference](https://goodayth.github.io/cpp-im-forwarding-reference/)
 * [chronometry 함수 완성](https://goodayth.github.io/cpp-im-chronometry-func/)
 * [using perfect forwarding](https://goodayth.github.io/cpp-im-using-perfect-forwarding/)
+* [std::forward 구현해보기](https://goodayth.github.io/cpp-im-make-std-forward/)
+* [setter using move & copy](https://goodayth.github.io/cpp-im-make-move-copy-setter/)
 
 ### 기타
 
