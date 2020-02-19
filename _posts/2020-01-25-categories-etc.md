@@ -5,11 +5,12 @@ date: 2020-01-04 00:00:00 -0000
 
 ## 목차
 
-* [WebRTC](https://github.com/GoodayTH/categories-etc/#webrtc)
-* [Docker](https://github.com/GoodayTH/categories-etc/#docker)
-* [Jenkins](https://github.com/GoodayTH/categories-etc/#jenkins)
-* [Git](https://github.com/GoodayTH/categories-etc/#git)
-* [Visual Studio](https://github.com/GoodayTH/categories-etc/#visual-studio)
+* [WebRTC](https://goodayth.github.io/categories-etc/#webrtc)
+* [Docker](https://goodayth.github.io/categories-etc/#docker)
+* [Jenkins](https://goodayth.github.io/categories-etc/#jenkins)
+* [Git](https://goodayth.github.io/categories-etc/#git)
+* [Visual Studio](https://goodayth.github.io/categories-etc/#visual-studio)
+* [Window](https://goodayth.github.io/categories-etc/#window)
 
 ---
 
@@ -142,6 +143,21 @@ date: 2020-01-04 00:00:00 -0000
 > 실행 -> winver
 
 ![](/file/image/winver.png)
+
+### 인바운드, 아웃바운드 규칙
+
+> 고급 방화벽에서 확인할 수 있다.
+
+![](/file/image/win-firewall.png)
+
+* 인바운드 규칙
+    - 외부(인터넷)에서 내부(내 PC)로 들어오는 규칙
+    - Windows의 기본 인바운드 규칙이 모든접속 **차단**이기에 추가되는 규칙은 보통 새로운 포트를 추가할때 사용된다.
+* 아웃바운드 규칙
+    - 내부(내 PC)에서 외부(인터넷)로 규칙
+    - Windows의 기본 아웃바운드 규직이 모든접속 **허용**이기에 추가되는 경우는 특정 포트를 사용해야하는 경우 추가되어 사용된다.
+
+> * [참고사이트](https://kcmschool.com/77)
 
 ---
 
