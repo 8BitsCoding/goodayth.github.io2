@@ -126,6 +126,11 @@ date: 2020-02-06 00:00:00 -0000
 * [std::forward 구현해보기](https://goodayth.github.io/cpp-im-make-std-forward/)
 * [setter using move & copy](https://goodayth.github.io/cpp-im-make-move-copy-setter/)
 
+### reference wrapper
+
+* [std::bind](https://goodayth.github.io/cpp-im-bind/)
+* [reference_wrapper](https://goodayth.github.io/cpp-im-reference-wrapper/)
+
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
