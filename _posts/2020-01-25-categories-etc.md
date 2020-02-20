@@ -148,7 +148,7 @@ date: 2020-01-04 00:00:00 -0000
 
 > 고급 방화벽에서 확인할 수 있다.
 
-![](/file/image/win-firewall.png)
+![](/file/image/win-firewall.PNG)
 
 * 인바운드 규칙
     - 외부(인터넷)에서 내부(내 PC)로 들어오는 규칙
