@@ -131,6 +131,24 @@ date: 2020-02-06 00:00:00 -0000
 * [std::bind](https://goodayth.github.io/cpp-im-bind/)
 * [reference_wrapper](https://goodayth.github.io/cpp-im-reference-wrapper/)
 
+### inline
+
+* [inline function](https://goodayth.github.io/cpp-im-inline-func/)
+
+### functor
+
+* [function object](https://goodayth.github.io/cpp-im-function-object/)
+* [function vs functor](https://goodayth.github.io/cpp-im-function-functor/)
+* [상태를 가지는 함수](https://goodayth.github.io/cpp-im-function-state/)
+* [최종정리](https://goodayth.github.io/cpp-im-functor-final/)
+
+### Lambda Expression & Closure Object
+
+* [Closure Object](https://goodayth.github.io/cpp-im-closure/)
+* [lambda expression & type](https://goodayth.github.io/cpp-im-lambda-type/)
+* [lambda & function argument](https://goodayth.github.io/cpp-im-lambda-argument/)
+* [lambda & suffix return type](https://goodayth.github.io/cpp-im-lambda-return/)
+
 ### 기타
 
 * [name mangling](https://goodayth.github.io/cpp-im-name-mangling/)
