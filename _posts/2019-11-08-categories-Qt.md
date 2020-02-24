@@ -20,3 +20,8 @@ date: 2019-11-08 00:00:00 -0000
 ## Qt GUI
 
 * [qtdesigner이용 .ui파일 및 .h파일 생성하기](https://goodayth.github.io/Qt-qtdesigner/)
+
+## Etc
+
+* [Windows qt update](https://goodayth.github.io/Qt-update/)
+* [qt용 spy++ gammaray](https://goodayth.github.io/Qt-gammaray/)

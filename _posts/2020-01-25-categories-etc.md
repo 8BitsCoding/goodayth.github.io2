@@ -114,6 +114,14 @@ date: 2020-01-04 00:00:00 -0000
 
 > * [참고사이트](https://cjh5414.github.io/get-git-remote-branch/)
 
+### 특정 tag clone 하기
+
+```s
+$ git clone -b <tag> <url>
+# example
+$ git clone -b v1.0 git://github.com/source
+```
+
 ---
 
 ## markdown
