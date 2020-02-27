@@ -39,6 +39,7 @@ date: 2019-11-08 00:00:00 -0000
 * [4. QWidget의 Event 살펴보기](https://goodayth.github.io/Qt-GDI-S2-4/) : QtCreator에서 Event쓰는 방법 정리
 * [5. Event Loop 이론적 내용](https://goodayth.github.io/Qt-GDI-S2-5/)
 * [6. 상속을 통한 이벤트 호출순서](https://goodayth.github.io/Qt-GDI-S2-6/) : + 이벤트 ignore했는지 확인해보기(`isAccepted()`)
+* [7. notify override 해보기](https://goodayth.github.io/Qt-GDI-S2-7/)
 
 ## Etc
 
