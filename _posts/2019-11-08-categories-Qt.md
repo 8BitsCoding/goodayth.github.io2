@@ -41,8 +41,17 @@ date: 2019-11-08 00:00:00 -0000
 * [6. 상속을 통한 이벤트 호출순서](https://goodayth.github.io/Qt-GDI-S2-6/) : + 이벤트 ignore했는지 확인해보기(`isAccepted()`)
 * [7. notify override 해보기](https://goodayth.github.io/Qt-GDI-S2-7/)
 * [8. QObject::event override 해보기](https://goodayth.github.io/Qt-GDI-S2-8/)
-* [9. Event Filter 사용해보기](https://goodayth.github.io/Qt-GDI-S2-9/)
-* [10. ](https://goodayth.github.io/Qt-GDI-S2-10/)
+* [9. Event Filter 사용해보기 : QApplication에 Event Filter 넣기](https://goodayth.github.io/Qt-GDI-S2-9/)
+* [10. Event Filter 사용해보기 : QObject에 Event Filter 넣기](https://goodayth.github.io/Qt-GDI-S2-10/)
+* [11. qt에서 쓰는 모든 event 이론적 정리](https://goodayth.github.io/Qt-GDI-S2-11/) : window, post, send event
+* [12. send, post event 예제](https://goodayth.github.io/Qt-GDI-S2-12/)
+
+### Section 3. Custom Widgets
+
+* [15. 색 선택 위젯 만들기](https://goodayth.github.io/Qt-GDI-S3-15/)
+
+<center><img src="/file/image/qt-gdi-s2-15-image-1.png" width="50%" height="50%"></center>
+
 
 ## Etc
 
