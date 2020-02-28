@@ -64,7 +64,7 @@ date: 2019-11-08 00:00:00 -0000
     - `QTime::currentTime`
     - `QDate::currentDate`
 
-<center><img src="/file/image/qt-gdi-s3-16-image-1.png" width="100%" height="100%"></center>
+<center><img src="/file/image/qt-gdi-s3-16-image-1.png" width="50%" height="50%"></center>
 
 * [17. button event 가로채기](https://goodayth.github.io/Qt-GDI-S3-17/)
     - `mouseDoubleClickEvent`
@@ -75,7 +75,12 @@ date: 2019-11-08 00:00:00 -0000
     - `QPen`
     - `update`
 
-<center><img src="/file/image/qt-gdi-s3-18-image-1.png" width="70%" height="70%"></center>
+<center><img src="/file/image/qt-gdi-s3-18-image-1.png" width="50%" height="50%"></center>
+
+### Section 4. Painting and Drawing
+
+* [23. QPainter는 logical coordinate에 그린다](https://goodayth.github.io/Qt-GDI-S4-23/)
+* [24. QWidget에 그리기(QPixelMap 이용하기)](https://goodayth.github.io/Qt-GDI-S4-24/)
 
 ## Etc
 
