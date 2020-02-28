@@ -49,9 +49,33 @@ date: 2019-11-08 00:00:00 -0000
 ### Section 3. Custom Widgets
 
 * [15. 색 선택 위젯 만들기](https://goodayth.github.io/Qt-GDI-S3-15/)
+    - 사용 기술
+    - `setStyleSheet`
+    - `emit`
+    - `QGridLayout`
+    - `QColor`
+    - `QList<QColor>`
 
 <center><img src="/file/image/qt-gdi-s2-15-image-1.png" width="50%" height="50%"></center>
 
+* [16. 현재 시간 출력 위젯 만들기](https://goodayth.github.io/Qt-GDI-S3-16/)
+    - `QTimer`
+    - `QFont`
+    - `QTime::currentTime`
+    - `QDate::currentDate`
+
+<center><img src="/file/image/qt-gdi-s3-16-image-1.png" width="100%" height="100%"></center>
+
+* [17. button event 가로채기](https://goodayth.github.io/Qt-GDI-S3-17/)
+    - `mouseDoubleClickEvent`
+    - `emit`
+
+* [18. 물탱크 신호등 만들기](https://goodayth.github.io/Qt-GDI-S3-18/)
+    - `paintEvent`
+    - `QPen`
+    - `update`
+
+<center><img src="/file/image/qt-gdi-s3-18-image-1.png" width="70%" height="70%"></center>
 
 ## Etc
 
