@@ -97,7 +97,7 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s4-28-image-1.png" width="50%" height="50%"></center>
 
-* [29.](https://goodayth.github.io/Qt-GDI-S4-29/)
+* [29. PainterPath 활용기](https://goodayth.github.io/Qt-GDI-S4-29/)
 
 <center><img src="/file/image/qt-gdi-s4-29-image-1.png" width="50%" height="50%"></center>
 
