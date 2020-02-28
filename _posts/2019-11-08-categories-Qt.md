@@ -81,6 +81,25 @@ date: 2019-11-08 00:00:00 -0000
 
 * [23. QPainter는 logical coordinate에 그린다](https://goodayth.github.io/Qt-GDI-S4-23/)
 * [24. QWidget에 그리기(QPixelMap 이용하기)](https://goodayth.github.io/Qt-GDI-S4-24/)
+* [25. 다양한 도형 그리기](https://goodayth.github.io/Qt-GDI-S4-25/)
+
+<center><img src="/file/image/qt-gdi-s4-25-image-1.png" width="50%" height="50%"></center>
+
+* [26. QPen 활용기](https://goodayth.github.io/Qt-GDI-S4-26/)
+
+<center><img src="/file/image/qt-gdi-s4-26-image-1.png" width="50%" height="50%"></center>
+
+* [27. QBrush 활용기](https://goodayth.github.io/Qt-GDI-S4-27/)
+
+<center><img src="/file/image/qt-gdi-s4-27-image-1.png" width="50%" height="50%"></center>
+
+* [28. Brush Gradients 활용기](https://goodayth.github.io/Qt-GDI-S4-28/)
+
+<center><img src="/file/image/qt-gdi-s4-28-image-1.png" width="50%" height="50%"></center>
+
+* [29.](https://goodayth.github.io/Qt-GDI-S4-29/)
+
+<center><img src="/file/image/qt-gdi-s4-29-image-1.png" width="50%" height="50%"></center>
 
 ## Etc
 
