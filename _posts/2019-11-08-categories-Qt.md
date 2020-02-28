@@ -101,6 +101,25 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s4-29-image-1.png" width="50%" height="50%"></center>
 
+* [30. Painter Transform](https://goodayth.github.io/Qt-GDI-S4-30/)
+    - `translate`
+    - `rotate`
+    - `scale`
+
+<center><img src="/file/image/qt-gdi-s4-30-image-1.png" width="50%" height="50%"></center>
+
+* [31. 자동차 그리기 Exmaple](https://goodayth.github.io/Qt-GDI-S4-31/)
+
+<center><img src="/file/image/qt-gdi-s4-31-image-1.png" width="50%" height="50%"></center>
+
+* [32. shape draw widget 만들기](https://goodayth.github.io/Qt-GDI-S4-32/)
+
+<center><img src="/file/image/qt-gdi-s4-32-image-1.png" width="50%" height="50%"></center>
+
+* [37. 그림판 만들기](https://goodayth.github.io/Qt-GDI-S4-37/)
+
+<center><img src="/file/image/qt-gdi-s4-37-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
