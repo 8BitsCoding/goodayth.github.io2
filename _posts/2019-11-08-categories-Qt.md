@@ -210,6 +210,22 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s6-67-image-1.png" width="50%" height="50%"></center>
 
+* [68. view drag and drop](https://goodayth.github.io/Qt-GDI-S6-68/)
+
+<center><img src="/file/image/qt-gdi-s6-68-image-1.png" width="50%" height="50%"></center>
+
+* [69. 68에 personal model 적용](https://goodayth.github.io/Qt-GDI-S6-69/)
+
+<center><img src="/file/image/qt-gdi-s6-69-image-1.png" width="50%" height="50%"></center>
+
+* [73. personal model treeview](https://goodayth.github.io/Qt-GDI-S6-73/)
+
+<center><img src="/file/image/qt-gdi-s6-73-image-1.png" width="50%" height="50%"></center>
+
+* [77. 73 응용](https://goodayth.github.io/Qt-GDI-S6-77/)
+
+<center><img src="/file/image/qt-gdi-s6-77-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
