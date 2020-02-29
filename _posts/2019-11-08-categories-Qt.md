@@ -120,6 +120,32 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s4-37-image-1.png" width="50%" height="50%"></center>
 
+### Section 5. Drag and Drop / Clipboard
+
+* [40. Drag and Drop 기본적 함수](https://goodayth.github.io/Qt-GDI-S5-40/)
+    - `QDrag`
+    - `QMimeData`
+    - `dragEvent`
+    - `manhattanLength`
+
+* [41. Drag and Drop Widget 만들기(TEXT)](https://goodayth.github.io/Qt-GDI-S5-41/)
+
+<center><img src="/file/image/qt-gdi-s5-41-image-1.png" width="50%" height="50%"></center>
+
+* [42. Drag and Drop Widget 만들기(IMAGE)](https://goodayth.github.io/Qt-GDI-S5-42/)
+
+<center><img src="/file/image/qt-gdi-s5-42-image-1.png" width="50%" height="50%"></center>
+
+* [43. Drag Widget 만들기](https://goodayth.github.io/Qt-GDI-S5-43/)
+
+<center><img src="/file/image/qt-gdi-s5-43-image-1.png" width="50%" height="50%"></center>
+
+* [44. Clipboard 컨트롤](https://goodayth.github.io/Qt-GDI-S5-44/)
+
+* [45. 그림판 Clipboard 이미지 삽입](https://goodayth.github.io/Qt-GDI-S5-45/)
+
+<center><img src="/file/image/qt-gdi-s5-45-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
