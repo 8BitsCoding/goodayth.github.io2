@@ -170,6 +170,30 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s6-56-image-1.png" width="50%" height="50%"></center>
 
+* [57. QSortFilterProxyModel 사용](https://goodayth.github.io/Qt-GDI-S6-57/)
+
+<center><img src="/file/image/qt-gdi-s6-57-image-1.png" width="50%" height="50%"></center>
+
+* [58. list, table, tree personal view 만들기](https://goodayth.github.io/Qt-GDI-S6-58/)
+
+<center><img src="/file/image/qt-gdi-s6-58-image-1.png" width="50%" height="50%"></center>
+
+* [59. 58. 예제에 label 추가하기](https://goodayth.github.io/Qt-GDI-S6-59/)
+
+<center><img src="/file/image/qt-gdi-s6-59-image-1.png" width="50%" height="50%"></center>
+
+* [60. item 추가 기능 넣기](https://goodayth.github.io/Qt-GDI-S6-60/)
+
+<center><img src="/file/image/qt-gdi-s6-60-image-1.png" width="50%" height="50%"></center>
+
+* [61. view 동기화 시키기](https://goodayth.github.io/Qt-GDI-S6-61/)
+
+<center><img src="/file/image/qt-gdi-s6-61-image-1.png" width="50%" height="50%"></center>
+
+* [62. item 열 추가](https://goodayth.github.io/Qt-GDI-S6-62/)
+
+<center><img src="/file/image/qt-gdi-s6-62-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
