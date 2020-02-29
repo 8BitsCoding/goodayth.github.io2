@@ -146,6 +146,30 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s5-45-image-1.png" width="50%" height="50%"></center>
 
+### Section 6. Model View Architecture Advanced
+
+* [51. Model View Architecture 개념](https://goodayth.github.io/Qt-GDI-S6-51/)
+
+* [52. QListWidgetItem 사용](https://goodayth.github.io/Qt-GDI-S6-52/)
+
+<center><img src="/file/image/qt-gdi-s6-52-image-1.png" width="50%" height="50%"></center>
+
+* [53. QTableWidgetItem 사용](https://goodayth.github.io/Qt-GDI-S6-53/)
+
+<center><img src="/file/image/qt-gdi-s6-53-image-1.png" width="50%" height="50%"></center>
+
+* [54. QTreeWidgetItem 사용](https://goodayth.github.io/Qt-GDI-S6-54/)
+
+<center><img src="/file/image/qt-gdi-s6-54-image-1.png" width="50%" height="50%"></center>
+
+* [55. QFileSystemModel 사용](https://goodayth.github.io/Qt-GDI-S6-55/)
+
+<center><img src="/file/image/qt-gdi-s6-55-image-1.png" width="50%" height="50%"></center>
+
+* [56. QStringListModel 사용](https://goodayth.github.io/Qt-GDI-S6-56/)
+
+<center><img src="/file/image/qt-gdi-s6-56-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
