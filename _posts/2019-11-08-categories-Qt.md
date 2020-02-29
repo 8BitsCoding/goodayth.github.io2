@@ -194,6 +194,22 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s6-62-image-1.png" width="50%" height="50%"></center>
 
+* [64. item paint 기능 추가](https://goodayth.github.io/Qt-GDI-S6-64/)
+
+<center><img src="/file/image/qt-gdi-s6-64-image-1.png" width="50%" height="50%"></center>
+
+* [65. item data 마우스로 컨트롤](https://goodayth.github.io/Qt-GDI-S6-65/)
+
+<center><img src="/file/image/qt-gdi-s6-65-image-1.png" width="50%" height="50%"></center>
+
+* [66. 최종판](https://goodayth.github.io/Qt-GDI-S6-66/)
+
+<center><img src="/file/image/qt-gdi-s6-66-image-1.png" width="50%" height="50%"></center>
+
+* [67. 왼쪽 리스트 컨트롤 아이템 드레그해서 오른쪽 테이블에 넣기](https://goodayth.github.io/Qt-GDI-S6-67/)
+
+<center><img src="/file/image/qt-gdi-s6-67-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
