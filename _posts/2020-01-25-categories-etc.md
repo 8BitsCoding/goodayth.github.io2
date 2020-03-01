@@ -11,6 +11,9 @@ date: 2020-01-04 00:00:00 -0000
 * [Git](https://goodayth.github.io/categories-etc/#git)
 * [Visual Studio](https://goodayth.github.io/categories-etc/#visual-studio)
 * [Window](https://goodayth.github.io/categories-etc/#window)
+* [curl](https://goodayth.github.io/categories-etc/#curl)
+* [websocket](https://goodayth.github.io/categories-etc/#websocket)
+* [stomp](https://goodayth.github.io/categories-etc/#stomp)
 
 ---
 
@@ -199,3 +202,48 @@ $ git clone -b v1.0 git://github.com/source
 > 옵션 -> 텍스트 편집기 -> C/C++ -> 서식 -> 일반
 
 ![](/file/image/VS_Text_edit_Image_01.png)
+
+---
+
+## curl
+
+> * [참고사이트](https://m.blog.naver.com/javaking75/220776461230)
+
+* command URL : 명령어 기반 URL 접근가능하게 해주는 툴이다.
+* 다운로드는 [여기](https://curl.haxx.se/download.html)서 혹은 [여기](https://curl.haxx.se/windows/) 하자
+
+![](/file/image/curl_image_01.png)
+
+> 받아서 압축을 풀어보면 bin폴더 내에 curl.exe가 있다.<br>
+> 커맨드 라인을 열어서 아래 명령어를 입력해본다.
+
+```s
+$ curl https://goodayth.github.io
+```
+
+![](/file/image/curl_image_02.png)
+
+---
+
+## websocket
+
+> * [참고사이트](http://utk-unm.blogspot.com/2016/10/websocket.html)
+
+* WebSocket
+    - Transport protocol 일종(Real-time web application을 지원(서버와 실시간 통신지원))
+    - Web의 TCP Socket이라 생각하자
+
+* 대표적 사용예
+    - 구글 Doc과 같이 여러명 동시 수정 웹
+    - 실시간 스포츠 업데이트 사이트
+
+---
+
+## stomp
+
+> Simple (or Streaming) Text Orientated Messaging Protocol.<br>
+> 말 그대로 메시징 프로토콜이다.<br>
+> websocket에서 사용되며 특정 규약에 맞춰 보낼시 파싱<br>
+
+> * [참고사이트](https://swiftymind.tistory.com/tag/Websocket%20%2B%20STOMP)
+
