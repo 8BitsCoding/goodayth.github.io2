@@ -226,6 +226,30 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s6-77-image-1.png" width="50%" height="50%"></center>
 
+### Section 7. Graphics View Framework
+
+* [79. GraphicsView 핵심 컴포넌트](https://goodayth.github.io/Qt-GDI-S7-79/)
+* [80. GraphicsView 활용 mouse 클릭 받으면 네모 출력 위젯 만들기](https://goodayth.github.io/Qt-GDI-S7-80/)
+    - `QGraphicsScene`
+    - `QGraphicsView`
+    - `QGraphicsRectItem`
+
+<center><img src="/file/image/qt-gdi-s7-80-image-1.png" width="50%" height="50%"></center>
+
+* [83. GraphicsView event처리](https://goodayth.github.io/Qt-GDI-S7-83/) : 드레그 가능한 네모 그리기
+
+<center><img src="/file/image/qt-gdi-s7-83-image-1.png" width="50%" height="50%"></center>
+
+* [84. GraphicsView 이미지 출력](https://goodayth.github.io/Qt-GDI-S7-84/)
+    - `QGraphicsEllipseItem`
+    - `QGraphicsPixmapItem`
+
+<center><img src="/file/image/qt-gdi-s7-84-image-1.png" width="50%" height="50%"></center>
+
+* [85. GraphicsView 클릭으로 Item 넣기](https://goodayth.github.io/Qt-GDI-S7-85/)
+
+<center><img src="/file/image/qt-gdi-s7-85-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
