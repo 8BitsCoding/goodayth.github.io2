@@ -250,6 +250,49 @@ date: 2019-11-08 00:00:00 -0000
 
 <center><img src="/file/image/qt-gdi-s7-85-image-1.png" width="50%" height="50%"></center>
 
+* [86. 85 코드 정리](https://goodayth.github.io/Qt-GDI-S7-86/)
+
+<center><img src="/file/image/qt-gdi-s7-86-image-1.png" width="50%" height="50%"></center>
+
+* [87. Transitate, Scale, Shear, Rotation 기능 사용](https://goodayth.github.io/Qt-GDI-S7-87/)
+    - Transitate : x, y 위치지정
+    - Scale : 말 그대로 Scale
+    - Shear : 비틀기
+    - Rotation : 각도 틀기
+
+<center><img src="/file/image/qt-gdi-s7-87-image-1.png" width="50%" height="50%"></center>
+
+* [88. view scale 변경](https://goodayth.github.io/Qt-GDI-S7-88/)
+
+<center><img src="/file/image/qt-gdi-s7-88-image-1.png" width="50%" height="50%"></center>
+
+* [93. Resizable item 만들기](https://goodayth.github.io/Qt-GDI-S7-93/)
+
+<center><img src="/file/image/qt-gdi-s7-93-image-1.png" width="50%" height="50%"></center>
+
+* [94. 93 코드정리](https://goodayth.github.io/Qt-GDI-S7-94/)
+* [95. view 이미지로 저장하기](https://goodayth.github.io/Qt-GDI-S7-95/)
+
+<center><img src="/file/image/qt-gdi-s7-95-image-1.png" width="50%" height="50%"></center>
+
+* [96. item으로 item 컨트롤](https://goodayth.github.io/Qt-GDI-S7-96/)
+
+<center><img src="/file/image/qt-gdi-s7-96-image-1.png" width="50%" height="50%"></center>
+
+* [100. item drag and drop 적용](https://goodayth.github.io/Qt-GDI-S7-100/)
+
+<center><img src="/file/image/qt-gdi-s7-100-image-1.png" width="50%" height="50%"></center>
+
+> 아래는 git만 올림
+
+* [GraphicsView로 만든 게임 git](https://github.com/GoodayTH/GraphicsViewGame)
+
+<center><img src="/file/image/qt-gdi-s7-101-image-1.png" width="50%" height="50%"></center>
+
+* [GraphicsView로 만든 그림판 최종판 git](https://github.com/GoodayTH/GraphicsViewPainter)
+
+<center><img src="/file/image/qt-gdi-s7-102-image-1.png" width="50%" height="50%"></center>
+
 ## Etc
 
 * [Windows qt update](https://goodayth.github.io/Qt-update/)
