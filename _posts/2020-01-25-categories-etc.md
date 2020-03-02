@@ -14,6 +14,7 @@ date: 2020-01-04 00:00:00 -0000
 * [curl](https://goodayth.github.io/categories-etc/#curl)
 * [websocket](https://goodayth.github.io/categories-etc/#websocket)
 * [stomp](https://goodayth.github.io/categories-etc/#stomp)
+* [obs](https://goodayth.github.io/categories-etc/#obs)
 
 ---
 
@@ -247,3 +248,8 @@ $ curl https://goodayth.github.io
 
 > * [참고사이트](https://swiftymind.tistory.com/tag/Websocket%20%2B%20STOMP)
 
+---
+
+## obs
+
+* [obs build](https://goodayth.github.io/obs-build/)
