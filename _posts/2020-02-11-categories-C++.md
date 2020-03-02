@@ -26,6 +26,17 @@ date: 2020-02-06 00:00:00 -0000
 
 ---
 
+## C++ OOP & Design Pattern
+
+### Section 1. : Warming Up
+
+* [protected constructor](https://goodayth.github.io/cpp-dp-protected-constructor/)
+* [upcasting](https://goodayth.github.io/cpp-dp-upcasting/)
+* [abstract class, interface & coupling](https://goodayth.github.io/cpp-dp-coupling/)
+* [예제](https://goodayth.github.io/cpp-dp-example/)
+
+---
+
 ## C++ Intermediate
 
 ### this call
