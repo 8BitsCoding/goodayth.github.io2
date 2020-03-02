@@ -22,6 +22,7 @@ date: 2019-11-08 00:00:00 -0000
     - thread signal and slot
     - QtConcurrent::run
     - QFutureWatcher
+* [Model과 View에 관한 사항 정리](https://goodayth.github.io/Qt-model-view/)
 
 * 간단 정리
     - QString to const char : `qstr.toStdString().c_str();`

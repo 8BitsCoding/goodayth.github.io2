@@ -253,3 +253,4 @@ $ curl https://goodayth.github.io
 ## obs
 
 * [obs build](https://goodayth.github.io/obs-build/)
+* [sourcetree를 통해 본 model and view 구현](https://goodayth.github.io/obs-sourcetree-model-view/)
