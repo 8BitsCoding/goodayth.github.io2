@@ -35,6 +35,11 @@ date: 2020-02-06 00:00:00 -0000
 * [abstract class, interface & coupling](https://goodayth.github.io/cpp-dp-coupling/)
 * [예제](https://goodayth.github.io/cpp-dp-example/)
 
+### Section 2. : 공통성과 가변성의 분리
+
+* [edit control 만들기](https://goodayth.github.io/cpp-dp-s2-1/)
+* [변하는 것을 다른 클래스로](https://goodayth.github.io/cpp-dp-s2-3/)
+
 ---
 
 ## C++ Intermediate
