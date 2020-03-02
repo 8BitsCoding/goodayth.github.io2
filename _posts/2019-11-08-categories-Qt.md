@@ -31,6 +31,17 @@ date: 2019-11-08 00:00:00 -0000
 
 * [qtdesigner이용 .ui파일 및 .h파일 생성하기](https://goodayth.github.io/Qt-qtdesigner/)
 
+## Qt Core Intermediate
+
+* [2. QPointer](https://goodayth.github.io/Qt-CI-S1-2/) : qt용 포인터
+* [3. QScopedPointer](https://goodayth.github.io/Qt-CI-S1-3/) : `QScopedPointer` 스마트 포인터
+* [4. QSharedPointer](https://goodayth.github.io/Qt-CI-S1-4/)
+* [5. QList vs QVector](https://goodayth.github.io/Qt-CI-S2-5/)
+* [6. QHash](https://goodayth.github.io/Qt-CI-S2-6/)
+
+> 내용이 간단해서 별도로 정리하지 않음.
+
+
 ## GUI Development - Intermediate
 
 ### Section 2. Event Handling
