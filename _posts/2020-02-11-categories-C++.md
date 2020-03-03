@@ -38,7 +38,12 @@ date: 2020-02-06 00:00:00 -0000
 ### Section 2. : 공통성과 가변성의 분리
 
 * [edit control 만들기](https://goodayth.github.io/cpp-dp-s2-1/)
-* [변하는 것을 다른 클래스로](https://goodayth.github.io/cpp-dp-s2-3/)
+* [변하는 것을 다른 클래스로](https://goodayth.github.io/cpp-dp-s2-3/) : template Pattern, Stategy Pattern 비교
+* [Policy Base Design](https://goodayth.github.io/cpp-dp-s2-4/) : Stategy Pattern, Policy Base Pattern 비교
+* [Application Framework](https://goodayth.github.io/cpp-dp-s2-5/) : template pattern 사용 대표 예시
+* [함수와 정책](https://goodayth.github.io/cpp-dp-s2-6/)
+
+### Section 3. : 
 
 ---
 
