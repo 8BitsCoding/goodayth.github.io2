@@ -38,16 +38,37 @@ date: 2020-02-06 00:00:00 -0000
 ### Section 2. : 공통성과 가변성의 분리
 
 * [edit control 만들기](https://goodayth.github.io/cpp-dp-s2-1/)
-* [변하는 것을 다른 클래스로](https://goodayth.github.io/cpp-dp-s2-3/) : template Pattern, Stategy Pattern 비교
-* [Policy Base Design](https://goodayth.github.io/cpp-dp-s2-4/) : Stategy Pattern, Policy Base Pattern 비교
+* [변하는 것을 다른 클래스로](https://goodayth.github.io/cpp-dp-s2-3/) : template Pattern, Strategy Pattern 비교
+* [Policy Base Design](https://goodayth.github.io/cpp-dp-s2-4/) : Strategy Pattern, Policy Base Pattern 비교
 * [Application Framework](https://goodayth.github.io/cpp-dp-s2-5/) : template pattern 사용 대표 예시
-* [함수와 정책](https://goodayth.github.io/cpp-dp-s2-6/)
+* [함수와 정책](https://goodayth.github.io/cpp-dp-s2-6/) : Strategy Pattern을 함수에 적용
+* [state pattern](https://goodayth.github.io/cpp-dp-s2-7/) : 오브젝트의 함수(동작)만 수정하고 싶을때 사용하는 패턴 -> Strategy pattern과 동일
 
-### Section 3. : 
+* 정리 : 변하지 않는 코드에서 변해야 하는 부분은 분리하자
+    - 일반 함수에서 변한다면? -> 함수 인자로 분리(함수 포인터, 함수객체, 람다 표현식)
+    - 멤버 함수에서 변한다면?
+        - 가상 함수로 분리 -> template pattern
+            - 실행시간에 교체할 수 없고, 변하는 코드를 재사용할 수 없다.
+        - 상속기반의 패턴
+        - 다른 클래스로 분리 -> Strategy, Policy Base Design
+        - 인터페이스로 교체 -> Strategy
+            - 실행시간 교체가능, 가상함수 기반(느리다.)
+        - 템플릿 인자로 교체 -> Policy Base Design
+            - 실행시간 교체불간으, 인라인 치환 가능(빠르다)
+
+### Section 3. : 재귀적 포함
+
+* [Composite Pattern](https://goodayth.github.io/cpp-dp-s3-1/)
 
 ---
 
 ## C++ Intermediate
+
+### 주요사항 정리
+
+* [move 다시 정리](https://goodayth.github.io/cpp-im-re-move/) : r value reference로 메모리를 받고 싶을때
+* [perfect forward 다시 정리](https://goodayth.github.io/cpp-im-re-pf/) : 복사 생성없이 매개변수를 전달하고 싶을때
+* [함수포인터가 인라인치환이 안되는 이유](https://goodayth.github.io/cpp-im-re-inline/)
 
 ### this call
 
