@@ -62,6 +62,10 @@ date: 2020-02-06 00:00:00 -0000
 * [Menu Event](https://goodayth.github.io/cpp-dp-s3-2/) : Menu Command 처리, 일반/멤버 함수 포인터 처리 ,function 템플릿 사용법
 * [Decorator](https://goodayth.github.io/cpp-dp-s3-3/) : Decorator pattern 설명
 
+### Section 4. 간접층의 원리
+
+* [Adapter](https://goodayth.github.io/cpp-dp-s4-1/) : stack, reverse_iterator
+
 ---
 
 ## C++ Intermediate
