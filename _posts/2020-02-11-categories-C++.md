@@ -58,7 +58,9 @@ date: 2020-02-06 00:00:00 -0000
 
 ### Section 3. : 재귀적 포함
 
-* [Composite Pattern](https://goodayth.github.io/cpp-dp-s3-1/)
+* [Composite Pattern](https://goodayth.github.io/cpp-dp-s3-1/) : Menu 구현을 통한 Composite Pattern 설명
+* [Menu Event](https://goodayth.github.io/cpp-dp-s3-2/) : Menu Command 처리, 일반/멤버 함수 포인터 처리 ,function 템플릿 사용법
+* [Decorator](https://goodayth.github.io/cpp-dp-s3-3/) : Decorator pattern 설명
 
 ---
 
