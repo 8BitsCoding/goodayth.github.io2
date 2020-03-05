@@ -65,6 +65,15 @@ date: 2020-02-06 00:00:00 -0000
 ### Section 4. 간접층의 원리
 
 * [Adapter](https://goodayth.github.io/cpp-dp-s4-1/) : stack, reverse_iterator
+* [Proxy](https://goodayth.github.io/cpp-dp-s4-2/)
+* [Facade](https://goodayth.github.io/cpp-dp-s4-3/)
+* [Bridge](https://goodayth.github.io/cpp-dp-s4-4/)
+
+* 정리 : 해결하기 어려운 문제를 간접층을 도입해서 해결하는 방법을 설명한다.
+    - 인터페이스 변경 : Adapter
+    - 대행자 : Proxy
+    - 서브시스템 복잡한 과정을 숨긴다 : Facade
+    - Update를 독맂벅으로 수행 : Bridge
 
 ---
 
