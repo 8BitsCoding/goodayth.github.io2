@@ -82,6 +82,11 @@ date: 2020-02-06 00:00:00 -0000
 * [Iterator](https://goodayth.github.io/cpp-dp-s5-3/)
 * [Visitor](https://goodayth.github.io/cpp-dp-s5-4/) : 오브젝트에 함수를 추가한 효과를 내고 싶다
 
+### Section 6. : 객체를 생성하는 방법
+
+* [객체를 생성하는 방법](https://goodayth.github.io/cpp-dp-s6-1/)
+* [Singleton](https://goodayth.github.io/cpp-dp-s6-2/)
+
 ---
 
 ## C++ Intermediate
