@@ -75,6 +75,13 @@ date: 2020-02-06 00:00:00 -0000
     - 서브시스템 복잡한 과정을 숨긴다 : Facade
     - Update를 독맂벅으로 수행 : Bridge
 
+### Section 5. : 통보, 열거, 방문
+
+* [Observer](https://goodayth.github.io/cpp-dp-s5-1/)
+* [Container](https://goodayth.github.io/cpp-dp-s5-2/)
+* [Iterator](https://goodayth.github.io/cpp-dp-s5-3/)
+* [Visitor](https://goodayth.github.io/cpp-dp-s5-4/) : 오브젝트에 함수를 추가한 효과를 내고 싶다
+
 ---
 
 ## C++ Intermediate
