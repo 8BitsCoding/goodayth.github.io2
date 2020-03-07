@@ -15,6 +15,7 @@ date: 2020-01-04 00:00:00 -0000
 * [websocket](https://goodayth.github.io/categories-etc/#websocket)
 * [stomp](https://goodayth.github.io/categories-etc/#stomp)
 * [obs](https://goodayth.github.io/categories-etc/#obs)
+* [powershell 7](https://goodayth.github.io/categories-etc/#powershell-7)
 
 ---
 
@@ -255,3 +256,10 @@ $ curl https://goodayth.github.io
 * [obs build](https://goodayth.github.io/obs-build/)
 * [sourcetree를 통해 본 model and view 구현](https://goodayth.github.io/obs-sourcetree-model-view/)
 * [rtmp 동작에 관해서](https://goodayth.github.io/obs-rtmp/)
+
+---
+
+## powershell 7
+
+* [GitHub(다운로드)](https://github.com/PowerShell/PowerShell/releases)
+
