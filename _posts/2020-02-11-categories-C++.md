@@ -86,6 +86,10 @@ date: 2020-02-06 00:00:00 -0000
 
 * [객체를 생성하는 방법](https://goodayth.github.io/cpp-dp-s6-1/)
 * [Singleton](https://goodayth.github.io/cpp-dp-s6-2/)
+* [Factory](https://goodayth.github.io/cpp-dp-s6-3/)
+* [Abstract Factory](https://goodayth.github.io/cpp-dp-s6-4/)
+* [Factory Method](https://goodayth.github.io/cpp-dp-s6-5/)
+* [Builder](https://goodayth.github.io/cpp-dp-s6-6/)
 
 ---
 
