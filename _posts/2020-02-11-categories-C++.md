@@ -277,6 +277,13 @@ date: 2020-02-06 00:00:00 -0000
 
 ## 코딩 테스트
 
+* [int배열 사이즈 출력]()
+
+```cpp
+int m_array = {0, 1, 2, 3};
+int m_array_size = sizeof(m_array) / sizeof(int);
+```
+
 ### 문자열 파싱
 
 * [문자열파싱](https://goodayth.github.io/C++-parsing/)
