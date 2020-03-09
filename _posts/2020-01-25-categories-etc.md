@@ -90,48 +90,19 @@ date: 2020-01-04 00:00:00 -0000
 
 ## Github.io
 
-### 테스트 이미지 넣기
+* [jekyll로 github page만들기](https://goodayth.github.io/gitpage-make/)
+* [테스트 이미지 넣기]()
 
 ```s
 ![이미지](/file/image/test_image.png)
 ```
 
+> Example
+
 ![](/file/image/test_image.png)
 
-### google analytics 붙이기
-
-> 우선 [google analytics](https://analytics.google.com/) 에서 가입을 해야함.<br>
-> 가입하면서 자신의 블로그 등록하는거 잊지말것!
-
-![](/file/image/google_analytics_image_1.png)
-
-> 속성 -> 속성 설정
-
-![](/file/image/google_analytics_image_2.png)
-
-> 추적 ID확인<br>
-> _config.yml에 추적 ID를 추가한다.<br>
-> (지킬에 따라 _config.yml을 다를 수 있다.)
-
-```yml
-# Analytics
-analytics:
-  provider               : "google"
-  google:
-    tracking_id          : "추적 ID"
-    anonymize_ip         : # true, false (default)
-```
-
-> * [참고사이트](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/1/)
-
-### google adsense 달기
-
-> 역시 [google adsense](https://www.google.com/adsense/)가입이 필요<br>
-> 본 블로그의 경우 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)를 기반으로 했기에 adsense 붙이는 것도 minimal-mistakes를 기반으로 설명이 됨.
-
-> 현재 내가 설치한 minimal-mistakes의 버전이 좀 다른거 같아서 정리 중지.
-
-> * [참고사이트](https://devinlife.com/howto%20github%20pages/adsense/)
+* [google analytics 붙이기](https://goodayth.github.io/gitpage-analysis/)
+* [google adsense 붙이기](https://goodayth.github.io/gitpage-adsense/)
 
 ---
 
